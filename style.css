@@ -29,7 +29,9 @@ nav{
     font-family: 'Ephesis', cursive;
 }
 span{
-   color: #f9004d;
+   color: #f9004d; 
+   font-family: 'Dancing Script', cursive;
+   font-family: 'Ephesis', cursive;
 }
 nav ul li{
     list-style-type: none;
