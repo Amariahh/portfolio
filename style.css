@@ -24,7 +24,9 @@ nav{
     color: white;
     font-size: 35px;
     letter-spacing: 1px;
-    cursor: pointer;
+    cursor: pointer; 
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ephesis', cursive;
 }
 span{
    color: #f9004d;
