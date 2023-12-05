@@ -21,7 +21,7 @@ nav{
     padding-right: 8%;
 }
 .logo{
-    color: white;
+    color: #F5CCA0;
     font-size: 35px;
     letter-spacing: 1px;
     cursor: pointer; 
@@ -29,7 +29,7 @@ nav{
     font-family: 'Ephesis', cursive;
 }
 span{
-   color: #f9004d; 
+   color:#ED9ED6; 
    font-family: 'Dancing Script', cursive;
    font-family: 'Ephesis', cursive;
 }
@@ -39,17 +39,17 @@ nav ul li{
     padding: 10px 25px;
 }
 nav ul li a{
-   color: white;
+   color: #FFC7C7;
    text-decoration: none;
    font-weight: bold;
    text-transform: capitalize;
 }
 nav ul li a:hover{
-    color: #f9004d;
+    color: #ED9ED6;
     transition: .4s;
 }
 .btn{
-    background-color: #f9004d;
+    background-color: #ED9ED6;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -68,17 +68,17 @@ nav ul li a:hover{
     transform: translate(-50%);
 }
 h1{
-  color: white;
+  color: #FFC7C7;
   margin: 20px 0px 20px;
   font-size: 75px;
 }
 h3{
-  color: white;
+  color: #FFC7C7;
   font-size: 25px;
   margin-bottom: 50px;
 }
 h4{
-  color: #fcfc;
+  color: #ED9ED6;
   letter-spacing: 2px;
   font-size: 20px;
 }
