@@ -30,7 +30,7 @@ nav{
 }
 
 .logo{
-     width: 140px;
+     width: 200px;
 }
 
 nav ul li{
@@ -167,7 +167,7 @@ nav ul li a:hover::after{
 }
 
 .btn{
-   display: block;
+   display: inline-block;
    margin: 50px auto;
    width: fit-content;
    border: 1px solid #ff004f;
