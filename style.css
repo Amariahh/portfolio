@@ -169,7 +169,7 @@ nav ul li a:hover::after{
 .btn{
    display: inline-block;
    margin: 50px auto;
-   width: fit-content;
+   width: 100%;
    border: 1px solid #ff004f;
    padding: 14px 50px;
    border-radius: 6px;
